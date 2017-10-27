@@ -1,0 +1,177 @@
+body
+
+	#nav li {
+	display: inline-block;
+	text-align: center;
+	padding: 20px; 
+}
+
+
+h1{
+	font-family: 'Merienda One', cursive;
+	color: white;
+	font-size: 70px;
+}
+
+
+h2,h3,h4,h5{
+
+  font-family: "Roboto", sans-serif;
+
+}
+
+p{
+	font-family: "arial", sans-serif;
+	font-size: 12px
+}
+
+
+
+#footer{
+	height: 300px;
+	background: url(images/footer3.jpg) no-repeat center center;
+	width: 100%;
+  	background-size: cover;
+  	color:white;
+}
+
+#chefdeprojet {
+	color: white;
+	text-align:center;
+	font-family: "arial", sans-serif;
+	font-size: 20px;
+}
+
+
+.centered {
+	text-align: center;
+}
+
+
+.menu {
+	height: 500px;
+	background: url(images/entetenw.jpg) no-repeat center center;
+	background-attachment:fixed;
+	width: 100%;
+  	background-size: cover;
+}
+
+a {
+	text-decoration: none;
+}
+
+.rounded {
+	border-radius: 70%!important;
+}
+
+.navbar-toggle {
+    padding: 5px 5px;
+    margin-top: 7px;
+    margin-bottom: 10px;
+}
+
+.form {
+	margin:auto;
+	width: 50%;
+}
+
+.navbar-togglecollapsed{
+	margin-top: 20px; 
+}
+
+
+#engie {
+  font-family: courier, sans-serif;
+  color: white
+}
+
+.bnpparibas {
+	color:white;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: courier, sans-serif;
+  	color: white;
+}
+
+#directemploi{
+	  font-family: courier, sans-serif;
+ 	  color: white
+}
+
+.container-fluid{
+
+}
+
+.darty {
+	background-color: rgba(244,243,242,0.8);
+	margin: 5px;
+	padding: 10px;
+}
+
+
+.navbar-perso{
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	background: white;
+	z-index:3;
+	height: 45px;
+	margin-bottom: 30px
+	min-height: 45px;
+}
+
+.navbar-header{
+	height: 42px;
+}
+#container-header{
+	background: white;
+	width:100%;
+}
+
+
+#btn-contact{
+	padding-top: 10px;
+    padding-bottom: 10px;
+}
+	#profil {
+		display: inline-block;
+		text-align: center;
+		margin-top: 80px;
+	}
+
+	#photo {
+		border-radius: 20px;
+		border-radius: 70%;
+		margin-top: 150px;
+	}
+
+
+	#competences {padding-left: 40px;
+	}
+
+
+	#experiences {
+		background-color: #130E0A;
+		width:100%;
+	}
+
+	#hobbies {
+		background-color: rgba(244,243,242,0.8);
+		
+	}
+
+	#trait_dessus{
+	border-top: 1px solid #7a3b4f;
+	width : 100%px;
+	} 
+
+
+.drapeau {
+	border-radius: 15px
+}
+
+
+
+#navbar-collapse-1 {
+    padding-top: 3px;
+}
